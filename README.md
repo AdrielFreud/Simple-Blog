@@ -1,7 +1,7 @@
 # AdrielFreud
 
 ![](https://img.shields.io/badge/Simple-BLOG-v1.0-blue?style=flat&logo=appveyor)
-![](https://img.shields.io/badge/plataforma-win32--win64--linux64--linux32-blue?style=flat&logo=appveyor)
+![](https://img.shields.io/badge/Plataforma-win32--win64--linux64--linux32-blue?style=flat&logo=appveyor)
 ![](https://img.shields.io/badge/Ferramentas-html5--php7-blue)
 
  - Simples website (blog)
